@@ -1,3 +1,7 @@
+# NOTE:
+
+Forked for security reasons so we have control over updating this since it has access to our AWS keys.
+
 # AWS-CDK GitHub Actions
 
 AWS-CDK GitHub Actions allow you to run `cdk deploy` and `cdk diff` and ... on your pull requests to help you review.
